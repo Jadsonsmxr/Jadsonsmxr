@@ -45,7 +45,7 @@ Tenho experiência com automação, análise de dados, Machine Learning, desenvo
 
 | Projeto | Descrição | Tecnologias |
 | ------- | --------- | ----------- |
-| ⚡ [**Análise do Consumo de Energia Elétrica no Brasil**](LINK_DO_REPOSITORIO) | Análise exploratória de dados do consumo de energia elétrica brasileiro entre 2004 e 2023, identificando padrões temporais, regionais e por tipo de consumidor.                                            | `Python` `Pandas` `Matplotlib` `Seaborn` `Estatística`    |
+| ⚡ [**Análise do Consumo de Energia Elétrica no Brasil**](https://github.com/Jadsonsmxr/analise-do-consumo-de-energia-eletrica-no-brasil) | Análise exploratória de dados do consumo de energia elétrica brasileiro entre 2004 e 2023, identificando padrões temporais, regionais e por tipo de consumidor.                                            | `Python` `Pandas` `Matplotlib` `Seaborn` `Estatística`    |
 | 🌱 [**Fotobiorreator Inteligente**](https://github.com/Jadsonsmxr/Fotobiorreator)                      | Projeto de P&D para monitoramento de cultivo de microalgas, integrando automação, sensores, IoT e Machine Learning.                                                                                        | `Python` `ESP32` `IoT` `XGBoost` `MQTT`                   |
 | 📉 [**Predição de Churn de Clientes**](https://github.com/Jadsonsmxr/customer-churn-prediction)                   | Projeto de Machine Learning para identificar clientes com maior probabilidade de cancelamento, envolvendo análise exploratória, preparação dos dados, treinamento e avaliação de modelos de classificação. | `Python` `Pandas` `Scikit-learn` `Machine Learning` `EDA` |
 
